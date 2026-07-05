@@ -4,14 +4,11 @@
   <a href="mailto:yuliangwang629@gmail.com">
     <img src="https://img.shields.io/badge/Email-yuliangwang629%40gmail.com-red?style=flat&logo=gmail">
   </a>
-  <a href="你的LinkedIn链接">
-    <img src="www.linkedin.com/in/yuliang-wang-b16153350">
+  <a href="https://www.linkedin.com/in/yuliang-wang-b16153350">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin">
   </a>
-  <a href="你的ORCID链接">
-    <img src="[https://img.shields.io/badge/Google-Scholar-blue?style=flat&logo=google-scholar](https://scholar.google.com/citations?user=4Cnlfa8AAAAJ&hl=en](https://orcid.org/0009-0007-7998-3853)">
-  </a>
-  <a href="你的个人网站链接">
-    <img src="https://img.shields.io/badge/Website-Portfolio-blue?style=flat&logo=google-chrome">
+  <a href="https://orcid.org/0009-0007-7998-3853">
+    <img src="https://img.shields.io/badge/ORCID-0009--0007--7998--3853-green?style=flat&logo=orcid">
   </a>
 </p>
 
@@ -30,7 +27,7 @@
 
 </td>
 <td width="35%">
-<img src="me.png" width="260">
+<img src="me.jpg" width="260">
 </td>
 </tr>
 </table>
