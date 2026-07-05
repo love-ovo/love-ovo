@@ -7,8 +7,8 @@
   <a href="你的LinkedIn链接">
     <img src="www.linkedin.com/in/yuliang-wang-b16153350">
   </a>
-  <a href="你的Google Scholar链接">
-    <img src="https://img.shields.io/badge/Google-Scholar-blue?style=flat&logo=google-scholar](https://scholar.google.com/citations?user=4Cnlfa8AAAAJ&hl=en">
+  <a href="你的ORCID链接">
+    <img src="[https://img.shields.io/badge/Google-Scholar-blue?style=flat&logo=google-scholar](https://scholar.google.com/citations?user=4Cnlfa8AAAAJ&hl=en](https://orcid.org/0009-0007-7998-3853)">
   </a>
   <a href="你的个人网站链接">
     <img src="https://img.shields.io/badge/Website-Portfolio-blue?style=flat&logo=google-chrome">
