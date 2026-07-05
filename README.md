@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yuliang Wang.</h1>
+<h1>Hi, I'm Yuliang(Daniel) Wang.</h1>
 
 <p>
   <a href="mailto:YULIANG005@e.ntu.edu.sg">
