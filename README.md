@@ -5,10 +5,10 @@
     <img src="https://img.shields.io/badge/Email-yuliangwang629%40gmail.com-red?style=flat&logo=gmail">
   </a>
   <a href="你的LinkedIn链接">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin">
+    <img src="www.linkedin.com/in/yuliang-wang-b16153350">
   </a>
   <a href="你的Google Scholar链接">
-    <img src="https://img.shields.io/badge/Google-Scholar-blue?style=flat&logo=google-scholar">
+    <img src="https://img.shields.io/badge/Google-Scholar-blue?style=flat&logo=google-scholar](https://scholar.google.com/citations?user=4Cnlfa8AAAAJ&hl=en">
   </a>
   <a href="你的个人网站链接">
     <img src="https://img.shields.io/badge/Website-Portfolio-blue?style=flat&logo=google-chrome">
