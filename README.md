@@ -1,7 +1,7 @@
 <h1>Hi, I'm Yuliang Wang.</h1>
 
 <p>
-  <a href="mailto:yuliangwang629@gmail.com">
+  <a href="mailto:YULIANG005@e.ntu.edu.sg">
     <img src="https://img.shields.io/badge/Email-yuliangwang629%40gmail.com-red?style=flat&logo=gmail">
   </a>
   <a href="https://www.linkedin.com/in/yuliang-wang-b16153350">
@@ -27,7 +27,7 @@
 
 </td>
 <td width="35%">
-<img src="me.jpg" width="260">
+<img src="me.png" width="260">
 </td>
 </tr>
 </table>
