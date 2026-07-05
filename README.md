@@ -19,10 +19,10 @@
 <td width="65%">
 
 <ul>
-  <li>I'm currently studying at Nanyang Technological University.</li>
-  <li>My interests include data analysis, AI applications, logistics, and digital business.</li>
-  <li>I enjoy building practical projects and turning data into clear insights.</li>
-  <li>Open to collaboration, internships, and research opportunities.</li>
+  <li>I am a Master’s student in Maritime Studies at Nanyang Technological University, with experience in maritime operations, freight forwarding, shipping data analysis, and supply chain research.</li>
+  <li>I am familiar with Python, MATLAB, SPSS, GIS, and Microsoft Office, and hope to contribute to more efficient, sustainable, and technology-enabled maritime and logistics operations.</li>
+  <li>Beyond academics and work, I am an outgoing, proactive, and responsible person with experience in team leadership, event organization, project coordination, and cross-group communication. </li>
+  <li>Outside of study, I enjoy singing, hiking, table tennis, badminton, photography, and exploring new places, which keep me energetic, open-minded, and ready for new challenges.</li>
 </ul>
 
 </td>
