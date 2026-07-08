@@ -1,7 +1,7 @@
 <h1>Hi, I'm Yuliang(Daniel) Wang.</h1>
 
 <p>
-  <a href="mailto:YULIANG005@e.ntu.edu.sg">
+  <a href="mailto:yuliangwang629@gmail.com">
     <img src="https://img.shields.io/badge/Email-yuliangwang629%40gmail.com-red?style=flat&logo=gmail">
   </a>
   <a href="https://www.linkedin.com/in/yuliang-wang-b16153350">
@@ -10,9 +10,9 @@
   <a href="https://orcid.org/0009-0007-7998-3853">
     <img src="https://img.shields.io/badge/ORCID-0009--0007--7998--3853-green?style=flat&logo=orcid">
   </a>
-  <a href="https://scholar.google.com/citations?hl=en&user=4Cnlfa8AAAAJ">
-    <img src="https://scholar.google.com/citations?hl=en&user=4Cnlfa8AAAAJ">
-  </a>
+<a href="https://scholar.google.com/citations?hl=en&user=4Cnlfa8AAAAJ">
+  <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=flat&logo=googlescholar">
+</a>
 
   
 </p>
