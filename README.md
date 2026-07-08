@@ -10,8 +10,8 @@
   <a href="https://orcid.org/0009-0007-7998-3853">
     <img src="https://img.shields.io/badge/ORCID-0009--0007--7998--3853-green?style=flat&logo=orcid">
   </a>
-  <a href="https://orcid.org/0009-0007-7998-3853](https://scholar.google.com/citations?hl=en&user=4Cnlfa8AAAAJ">
-    <img src="https://img.shields.io/badge/ORCID-0009--0007--7998--3853-green?style=flat&logo=orcid](https://scholar.google.com/citations?hl=en&user=4Cnlfa8AAAAJ">
+  <a href="https://scholar.google.com/citations?hl=en&user=4Cnlfa8AAAAJ">
+    <img src="https://scholar.google.com/citations?hl=en&user=4Cnlfa8AAAAJ">
   </a>
 
   
